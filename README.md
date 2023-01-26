@@ -38,7 +38,7 @@ Flutuar project is a website for a fictional travel company with the main purpos
 
 ## 🔖 Layout
 
-You can checkout the project layout by [THIS LINK](<https://www.figma.com/file/zIKEUFJ5mcaGWN1DsFeLFm/Projeto01-Extra-(Copy)?node-id=0%3A1&t=kej38m3kGD81pdnh-0>). You must have a Figma account [Figma](https://figma.com) to have access.
+You can checkout the project layout by [THIS LINK](<https://www.figma.com/file/zIKEUFJ5mcaGWN1DsFeLFm/Projeto01-Extra-(Copy)?node-id=0%3A1&t=kej38m3kGD81pdnh-0>). You must have a [Figma](https://figma.com) account to access.
 
 ## :memo: License
 
