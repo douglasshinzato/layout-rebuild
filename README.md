@@ -21,7 +21,7 @@ Challenge #2 developed at stage 02 of Explorer by Rocketseat.
   <img alt="Flutuar project" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologies
+## 🚀 Technologies
 
 This project was developed with the following technologies:
 
@@ -30,7 +30,7 @@ This project was developed with the following technologies:
 - Git and Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
 Flutuar project is a website for a fictional travel company with the main purpose to test the students HTML and CSS skills.
 
