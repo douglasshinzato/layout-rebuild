@@ -18,7 +18,11 @@ Challenge #2 developed at stage 02 of Explorer by Rocketseat.
 <br>
 
 <p align="center">
+<<<<<<< HEAD
   <img alt="Flutuar project preview" src=".github/preview.jpg" width="100%">
+=======
+  <img alt="Flutuar project" src="./.github/preview.jpg" width="100%">
+>>>>>>> 118d952fdcc84277303928240634fd20084b78d6
 </p>
 
 ## 🚀 Technologies
