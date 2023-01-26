@@ -18,7 +18,7 @@ Challenge #2 developed at stage 02 of Explorer by Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="Flutuar project" src=".github/preview.jpg" width="100%">
+  <img alt="Flutuar project preview" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -32,13 +32,13 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-Flutuar project is a website for a fictional travel company with the main purpose to test the students HTML and CSS skills.
+Flutuar project is a website for a fictional travel company where the main purpose is to test the students HTML and CSS skills.
 
 - [Checkout the final project, online](https://douglasshinzato.github.io/layout-rebuild/)
 
 ## 🔖 Layout
 
-You can checkout the project layout by [THIS LINK](<https://www.figma.com/file/zIKEUFJ5mcaGWN1DsFeLFm/Projeto01-Extra-(Copy)?node-id=0%3A1&t=kej38m3kGD81pdnh-0>). You must have a Figma account [Figma](https://figma.com) to have access.
+You can checkout the project layout by [this link](<https://www.figma.com/file/zIKEUFJ5mcaGWN1DsFeLFm/Projeto01-Extra-(Copy)?node-id=0%3A1&t=kej38m3kGD81pdnh-0>). You must have a [Figma](https://figma.com) account to access.
 
 ## :memo: License
 
